@@ -1,0 +1,3 @@
+[submodule "cyberwave"]
+	path = cyberwave
+	url = https://github.com/remino/cyberwave
