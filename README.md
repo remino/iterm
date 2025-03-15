@@ -1,5 +1,3 @@
 # iterm
 
-Rémino Rem <https://remino.net/>
-
-Personal iTerm profile and colour theme.
+Merged with [_customized_](https://github.com/remino/customized).
